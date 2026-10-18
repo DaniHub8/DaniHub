@@ -687,7 +687,7 @@ function OpenHubUI:CreateWindow(config)
         BackgroundTransparency = 1,
         Position = UDim2.fromOffset(48, 0),
         Size = UDim2.new(1, -58, 1, 0),
-        Text = "Open Snow",
+        Text = "Open SnowX",
         Font = Enum.Font.GothamBold,
         TextSize = 13,
         TextColor3 = theme.Text,
